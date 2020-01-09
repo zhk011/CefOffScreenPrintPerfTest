@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefPerfTest", "CefPerfTest.csproj", "{48066494-A402-48E7-BAE0-E25B5808EE3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48066494-A402-48E7-BAE0-E25B5808EE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48066494-A402-48E7-BAE0-E25B5808EE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48066494-A402-48E7-BAE0-E25B5808EE3C}.Debug|x64.ActiveCfg = Debug|x64
+		{48066494-A402-48E7-BAE0-E25B5808EE3C}.Debug|x64.Build.0 = Debug|x64
+		{48066494-A402-48E7-BAE0-E25B5808EE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48066494-A402-48E7-BAE0-E25B5808EE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48066494-A402-48E7-BAE0-E25B5808EE3C}.Release|x64.ActiveCfg = Release|x64
+		{48066494-A402-48E7-BAE0-E25B5808EE3C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {395362D4-7116-42B9-A555-5825789DE3EE}
+	EndGlobalSection
+EndGlobal
